@@ -9,7 +9,7 @@ Turkey is an earthquake populous country with 82 million inhabitants. It consist
 ### Problem
 A data analysis based on earthquake statistics and popular locations of each city will be found interesting by investors and consumers. Investors can carry out projects for places with less earthquake risk and invest in jobs where the type of business in those places is less intense. For regular person living in cities, they may want to buy and live in places that are less dangerous and at the same time close to social venues. Therefore, with a clustering study to be carried out by taking earthquake statistics based on a reasonable past (for example, 100 years) of each city, the regions with high or no earthquake risk can be determined. In addition, by comparing popular venues in these regions, the distinctiveness between regions can be revealed.
 
-## 2. Data
+## Data
 The data sources used in this study to solve the problem are as follows:
 
 * From the __AFAD Earthquake Catalog page__, the statistics of the earthquakes that
