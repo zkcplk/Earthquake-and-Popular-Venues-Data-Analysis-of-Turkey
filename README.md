@@ -1,4 +1,4 @@
-# Earthquake and_Popular Venues Data Analysis of Turkey
+# Earthquake and Popular Venues Data Analysis of Turkey
 IBM Data Science Specialization - Capstone Project
 
 
