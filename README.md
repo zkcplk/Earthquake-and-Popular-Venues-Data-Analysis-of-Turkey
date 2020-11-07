@@ -26,3 +26,4 @@ the latitude and longitude information of those places were obtained.
 of the cities were obtained by querying them one by one with the help of Python __GeoPy__
 Library.
 
+![...](https://raw.githubusercontent.com/zkcplk/Earthquake_and_Popular_Venues_Data_Analysis_of_Turkey/main/images/26.png)
